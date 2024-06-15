@@ -7,6 +7,7 @@ Users Table
 + Name
 + Email
 + PasswordHash
++ IDRole
 
 Products Table
 
